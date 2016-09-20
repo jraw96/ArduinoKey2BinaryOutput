@@ -1,0 +1,3 @@
+Code Explanation:
+-------------------
+This is a program that will initialize a 4X4 button keypad for an Arduino Uno. As well, the program will convert any of the 16 buttons into its corresponding binary number along the digitalWrite pins 10-13. Ie. one button on the keypad will send the binary coded decimal '0100' through pins 10,11,12,13 respectively and another button on the keypad may send the binary coded decimal '1111' through bins 10,11,12,13 respectively.   
